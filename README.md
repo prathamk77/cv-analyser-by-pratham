@@ -1,4 +1,4 @@
-# Smartiff CV Analyser
+#  CV Analyser
 
 An instant, AI-powered CV analysis tool built with React, Vite, and Express. Upload any CV and get a full breakdown of skills, experience, education, a career score, and suggested job roles — all processed locally with no external API required.
 
